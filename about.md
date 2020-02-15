@@ -1,5 +1,5 @@
 ---
 layout: page
-title: 
-subtitle: Site under construction
+title: Site under construction
+subtitle:
 ---
