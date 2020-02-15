@@ -171,10 +171,10 @@ defaults:
   -
     scope:
       path: ""
-      type: "posts"
+      type: "page"
     values:
-      layout: "post"
-      comments: true  # add comments to all blog posts
+      layout: "page"
+      comments: false  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
@@ -199,7 +199,7 @@ exclude:
 
 # prose.io config
 prose:
-  rooturl: '_posts'
+  rooturl: ''
   media: 'img'
   ignore:
     - 404.html
@@ -216,7 +216,7 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          value: "post"
+          value: "page"
       - name: "title"
         field:
           element: "text"
