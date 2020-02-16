@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact
+subtitle: contact
 css: "/css/custom.css"
 ---
 
