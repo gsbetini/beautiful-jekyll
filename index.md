@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Title page
+title: Gustavo S. Betini
 css: "/css/custom.css"
 ---
 
