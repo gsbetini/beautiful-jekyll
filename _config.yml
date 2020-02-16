@@ -44,7 +44,7 @@ navbar-links:
 navbar-col: "#FFFFFF"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
+page-col: ""
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
@@ -56,7 +56,7 @@ footer-link-col: "#404040"
 
 # navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
-# page-img: "/img/eu e as criancas.png"
+  page-img: "/img/eu e as criancas.png"
 
 # --- Footer options --- #
 
