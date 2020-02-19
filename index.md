@@ -6,9 +6,13 @@ css: "/css/custom.css"
 
 <div class="container font-16">
   <h2>Ecology, Climate Change and Mental Health</h2>
-  <p>Working at the human-environment interface<p>
+  <p>Working at the human-environment interface</p>
   
   
   
   
-  </div>
+
+
+
+
+</div>
