@@ -6,7 +6,5 @@ css: "/css/custom.css"
 
 <div class="container font-16">
   <h2>Ecology, Climate Change and Mental Health</h2>
-  <p>Working at the human-environment interface</p>
-  <p>I am an ecologist who investigates how ecological and evolutionary processes interact to shape organismal response to rapidly changing environments. 
-  <p>Recently, I have also started to investigate the influence of fast environmental changes on human mental health.
+  <p>I am an ecologist who investigates how ecological and evolutionary processes interact to shape organismal response to rapidly changing environments. In the past, I have focussed on non-human organisms, but I am now interested in understanding what are the effecs of these rapid environmental changes on human mental health.
 </div>
