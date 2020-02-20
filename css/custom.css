@@ -75,7 +75,7 @@
 /* Make the "page" pages heading smaller and more space above it */
 .intro-header .page-heading h1 {
     font-size: 40px;
-    margin-top: 10px;
+    margin-top: 5px;
 }
 
 .intro-header .page-heading .page-subheading {
