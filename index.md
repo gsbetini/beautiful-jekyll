@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Ecology, Climate Change an Mental Health
 subtitle: Working at the human-environment interface
 css: "/css/custom.css"
