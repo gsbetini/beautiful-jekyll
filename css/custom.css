@@ -3,7 +3,7 @@
 /***************************/
 
 .index-page {
-    margin: 60px 0 20px;
+    margin: 80px 0 10px;
 }
 
 .index-page h2 {
@@ -75,7 +75,7 @@
 /* Make the "page" pages heading smaller and more space above it */
 .intro-header .page-heading h1 {
     font-size: 40px;
-    margin-top: 5px;
+    margin-top: 10px;
 }
 
 .intro-header .page-heading .page-subheading {
