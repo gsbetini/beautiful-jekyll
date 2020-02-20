@@ -6,5 +6,5 @@ css: "/css/index.css"
 meta-title: "Ecology, Climate Change an Mental Health"
 meta-description: "Working at the human-environment interface"
 bigimg:
-  - "/img/imgs/eu e as criancas.jpg" : "Arizona, 2017"
+  - "/img/eu e as criancas.jpg" : "Arizona, 2017"
 ---
