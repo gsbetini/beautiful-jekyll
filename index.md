@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Ecology, Climate Change an Mental Health
-subtitle: "Working at the human-environment interface"
+title: Gustavo S. Betini
+subtitle:
 css: "/css/index.css"
 meta-title: "Ecology, Climate Change an Mental Health"
 meta-description: "Working at the human-environment interface"
