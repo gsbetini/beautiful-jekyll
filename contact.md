@@ -9,3 +9,7 @@ css: "/css/custom.css"
   <h2>Contact</h2>
   <p>You can contact me using the e-mail link below.</p>
 </div>
+
+bigimg:
+  - "/img/eu e as criancas.png" : "Guelph, 2012"
+---
