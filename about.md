@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gustavo S. Betini-About me
+title: Gustavo S. Betini - About me
 css: "/css/custom.css"
 ---
 
