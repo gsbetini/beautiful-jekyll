@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gustavo S. Betni-Publications
+title: Gustavo S. Betni - Publications
 css: "/css/custom.css"
 ---
 
