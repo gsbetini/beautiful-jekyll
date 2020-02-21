@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gustavo S. Betini-Contact
+title: Gustavo S. Betini - Contact
 subtitle: contact
 css: "/css/custom.css"
 ---
