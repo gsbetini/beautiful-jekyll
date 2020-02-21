@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Projects
+title: Gustavo S. Betini - Projects
 css: "/css/custom.css"
 ---
 
