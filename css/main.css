@@ -98,7 +98,7 @@ img::-moz-selection {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
-  font-weight: 600;
+  font-weight: 800;
   color: #404040;
   text-decoration: none;
 }
@@ -344,7 +344,7 @@ footer .theme-by {
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 15px;
+  font-size: 27px;
   line-height: 1.1;
   display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
