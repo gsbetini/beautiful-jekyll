@@ -301,7 +301,6 @@ footer .theme-by {
 .intro-header {
   margin: 80px 0 20px;
   position: relative;
-  font-size: 30px;
 }
 .intro-header.big-img {
   background: no-repeat center center;
@@ -341,7 +340,7 @@ footer .theme-by {
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
-  font-size: 35px;
+  font-size: 15px;
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
