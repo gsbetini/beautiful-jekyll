@@ -6,5 +6,5 @@ css: "/css/index.css"
 meta-title: "Gustavo S. Betini"
 meta-description: "Gustavo S. Betini"
 bigimg:
-  - "/img/eu e as criancas.png" : "Guelph, 2012"
+  - "/img/RSCN0036.JPG" : "Guelph, 2012"
 ---
