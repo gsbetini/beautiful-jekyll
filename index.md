@@ -7,4 +7,3 @@ meta-title: "Gustavo S. Betini"
 meta-description: "Gustavo S. Betini"
 bigimg:
   - "/img/RSCN0036.JPG" : "Guelph, 2012"
----
