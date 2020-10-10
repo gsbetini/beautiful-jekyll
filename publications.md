@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Gustavo S. Betni - Publications
 #css: "/css/custom.css"
 ---
