@@ -1,7 +1,6 @@
 ---
-layout: default
-title: Gustavo S. Betni - Publications
-#css: "/css/custom.css"
+layout: page
+title: Publication
 ---
 <div class="container font-16">
   <h2>Publications</h2>
